@@ -1,0 +1,47 @@
+body{
+    background-image: none;
+}
+.prodmaincontainer{
+    margin: 100px;
+}
+  .toptextbar{
+    color: grey;
+  }
+  .toptextbar a{
+    text-decoration: none;
+    color: grey;
+  }
+.bestproduct{
+    height: 100px;
+    width: 270px;
+}
+.categories a{
+    padding:5px 0;
+    text-decoration: none;
+    color: black;
+    transition: color ease 0.5s;
+}
+.categories a:hover{
+    color: rgb(0, 140, 255);
+}
+.navbar a{
+    color:black;
+    transition: color ease 0.5s;
+}
+.navbar a:hover{
+    color: rgb(0, 140, 255);
+}
+.sidebar{
+    width: 350px;
+}
+.maincont{
+    display: flex;
+    width: 80%;
+}
+.prodscontainer{
+       display: flex;
+      flex-wrap: wrap; 
+
+      margin: 0 auto;
+      width: 1000px;
+  }

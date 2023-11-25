@@ -1,0 +1,10 @@
+body{
+    background-image: none;
+  }
+    .textstuff{
+        width: 50%;
+    }
+    .textstuff a,span{
+        text-decoration: none;
+        color: grey;
+    }

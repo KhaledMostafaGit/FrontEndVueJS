@@ -1,0 +1,33 @@
+.deletebtn{
+    margin-right: 20px;
+    font-size: 20px;
+    color: grey;
+    border:0px solid black ;
+}
+.checkout{
+    width: 20%;
+    margin-left: auto;
+}
+.tablestyle{
+    border: 1px solid rgba(226, 212, 212, 0.678);
+}
+.tablestyle th,
+.tablestyle td {
+    border: 1px solid rgba(226, 212, 212, 0.678);
+    padding: 10px;
+}
+.checkout{
+    border: 1px solid rgba(226, 212, 212, 0.678);
+}
+.checkout th,
+.checkout td {
+    border: 1px solid rgba(226, 212, 212, 0.678);
+    padding: 10px;
+}
+.carttable{
+    width: 80%;
+    /* height: 100vh; */
+}
+.tablestyle th{
+    padding: 0 100px;
+}
