@@ -1,0 +1,153 @@
+[
+  {
+    "title": "DNK Yellow Shoes",
+    "gender": "Men",
+    "old_price": "$150.00",
+    "price": "120.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe3-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "DNK Blue Shoes",
+    "gender": "Men",
+    "price": "240.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Dark Brown Jeans",
+    "gender": "Men",
+    "price": "150.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-m-jeans1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Blue Denim Jeans",
+    "gender": "Women",
+    "price": "150.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans2-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Basic Gray Jeans",
+    "gender": "Women",
+    "price": "150.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans4-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Blue Denim Shorts",
+    "gender": "Women",
+    "old_price": "$150.00",
+    "price": "130.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Anchor Bracelet",
+    "gender": "Accessories",
+    "price": "180.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory2-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Boho Bangle Bracelet",
+    "gender": "Accessories",
+    "price": "170.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Light Brown Purse",
+    "gender": "Accessories",
+    "price": "150.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Bright Red Bag",
+    "gender": "Accessories",
+    "price": "140.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag3-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "DNK Yellow Shoes",
+    "gender": "Men",
+    "old_price": "$150.00",
+    "price": "120.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe3-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "DNK Blue Shoes",
+    "gender": "Men",
+    "price": "240.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Dark Brown Jeans",
+    "gender": "Men",
+    "price": "150.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-m-jeans1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Blue Denim Jeans",
+    "gender": "Women",
+    "price": "150.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans2-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Basic Gray Jeans",
+    "gender": "Women",
+    "price": "150.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans4-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Blue Denim Shorts",
+    "gender": "Women",
+    "old_price": "$150.00",
+    "price": "130.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Anchor Bracelet",
+    "gender": "Accessories",
+    "price": "180.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory2-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Boho Bangle Bracelet",
+    "gender": "Accessories",
+    "price": "170.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Light Brown Purse",
+    "gender": "Accessories",
+    "price": "150.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag1-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Bright Red Bag",
+    "gender": "Accessories",
+    "price": "140.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag3-300x300.jpg",
+    "stars": 5
+  },
+  {
+    "title": "Bright Red Bag",
+    "gender": "Accessories",
+    "price": "140.00",
+    "img": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag3-300x300.jpg",
+    "stars": 5
+  }
+]
