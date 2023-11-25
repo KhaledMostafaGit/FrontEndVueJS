@@ -50,7 +50,7 @@ export default {
                 {
                     title: "DNK Blue Shoes",
                     gender: "Men",
-                    price: "$200.00 - $240.00",
+                    price: "240.00",
                     stars:5,
                     img: "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg"
                 },
@@ -86,14 +86,14 @@ export default {
                 {
                     title: "Anchor Bracelet",
                     gender: "Accessories",
-                    price: "$150.00 - $180.00",
+                    price: "180.00",
                     stars:5,
                     img: "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory2-300x300.jpg"
                 },
                 {
                     title: "Boho Bangle Bracelet",
                     gender: "Accessories",
-                    price: "$150.00 - $170.00",
+                    price: "170.00",
                     stars:5,
                     img: "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory1-300x300.jpg"
                 },
@@ -107,7 +107,7 @@ export default {
                 {
                     title: "Bright Red Bag",
                     gender: "Accessories",
-                    price: "$100.00 - $140.00",
+                    price: "140.00",
                     stars:5,
                     img: "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag3-300x300.jpg"
                 }

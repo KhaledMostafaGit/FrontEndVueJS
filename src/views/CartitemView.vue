@@ -146,14 +146,14 @@
     redirectToProductDetails(imageSrc) {
       this.$router.push({ name: 'CartitemView', query: { image: imageSrc } });
     },
-    handleRouteChange() {
+    // handleRouteChange() {
 
-      window.location.reload();
+    //   window.location.reload();
 
-    },
+    // },
   },
-  watch: {
-    '$route': 'handleRouteChange',
-  },
+  // watch: {
+  //   '$route': 'handleRouteChange',
+  // },
   };
   </script>
