@@ -130,26 +130,23 @@ export default {
         "quantity":quantity
       };
 
-      // Check if the product is already in the cart
+  
       const existingProductIndex = existingProducts.findIndex(product => product.title === newProduct.title);
 
       if (existingProductIndex !== -1) {
-        // If the product is already in the cart, update the quantity or any other property
+   
         existingProducts[existingProductIndex].quantity += 1;
       } else {
-        // If the product is not in the cart, add it
+   
         existingProducts.push(newProduct);
       }
 
-      // Save the updated cart back to localStorage
+
       localStorage.setItem('products', JSON.stringify(existingProducts));
 
     },
     redirectToProductDetails(imageSrc) {
-      // You can add logic here if needed before navigating
-      // For example, open a modal or perform some action
 
-      // Redirect to the 'ProductDetails' route with the image as a query parameter
       this.$router.push({ name: 'CartitemView', query: { image: imageSrc } });
     },
     

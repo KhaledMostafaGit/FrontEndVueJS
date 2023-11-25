@@ -79,7 +79,7 @@ export default {
       this.cartItems.splice(index, 1);
 
       localStorage.setItem("products", JSON.stringify(this.cartItems));
-      window.location.reload();
+      // window.location.reload();
     },
     calculateSubtotal() {
       return this.cartItems.reduce((subtotal, item) => subtotal + item.price * item.quantity, 0).toFixed(2);

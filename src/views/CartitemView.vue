@@ -141,7 +141,7 @@
       }
 
       localStorage.setItem('products', JSON.stringify(existingProducts));
-      window.location.reload();
+      // window.location.reload();
     },
     redirectToProductDetails(imageSrc) {
       this.$router.push({ name: 'CartitemView', query: { image: imageSrc } });
